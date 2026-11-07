@@ -1,0 +1,16 @@
+{
+  "name": "movie-review-hub",
+  "version": "1.0.0",
+  "description": "**Movie Review Hub** is a website where users can discover movies, read reviews, and rate their favorites.",
+  "main": "index.js",
+  "scripts": {
+    "script": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "express": "^5.3.0"
+  }
+}
